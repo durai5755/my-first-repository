@@ -1,3 +1,6 @@
+Learning git and github
+
 This is my first repository
-this is a change from git.checking.
+
+This is a change from git.checking.
 
