@@ -1,7 +1,1 @@
-# my-first-repository
-learning git and github
-
-
-This is from the local
-
-
+This is my first repository
